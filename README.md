@@ -1,4 +1,4 @@
-`
+```
 ⎨ ❣️«💕   Ḻʸⁿˢᴱi  ❤🖤🔥» ⎬ ⏅sy⟗⦅ Environment for Multiple SHells ‣ ✨.
 
 8""""8                           8""""8
@@ -7,7 +7,7 @@
     88 8eee8 8eee 8e    8e           88 8eee8 8e 8eee8
 e   88 88  8 88   88    88       e   88 88  8 88 88
 8eee88 88  8 88ee 88eee 88eee    8eee88 88  8 88 88    by Ḻʸⁿˢᴱi
-`
+```
 
 # docker-compose
 It is the same old docker-compose, except now you are in a docker container.
